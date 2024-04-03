@@ -1,0 +1,3 @@
+database_url="Server=postgres;Port=5432;Database=mymusic;User Id=postgres;Password=S3cureP@ssWord!;"
+storage_db="mongodb://root:Kwende1995!@mongo"
+ffmpeg_path="/"
