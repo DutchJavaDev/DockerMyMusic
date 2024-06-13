@@ -29,7 +29,7 @@ services:
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: Kwende1995!
+      MONGO_INITDB_ROOT_PASSWORD: S3cureP@ssWord!
 
 volumes:
   image2_storage: {}
